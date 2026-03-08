@@ -1,5 +1,8 @@
+# Terraform files
 .terraform/
 terraform.tfstate
 terraform.tfstate.backup
 .terraform.lock.hcl
 
+# OS files
+.DS_Store
